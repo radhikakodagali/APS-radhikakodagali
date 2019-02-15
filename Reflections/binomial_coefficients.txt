@@ -1,1 +1,4 @@
-
+Three ways to calculate the binomial coefficient
+1.	1D array- to calculate binomial coefficient of nth row, time complexity- O(n*k), space-O(k)
+2.	2D array-calculates binomial coefficient from 1st-nth row, time complexity-O(n*k),space-O(n*k)
+3.	Recursion- used for small number because recursion takes a lot of stack space
