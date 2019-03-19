@@ -1,1 +1,16 @@
+1. LOOKUP TABLE
+   a. Space complexity: O(n^2)
+   b. Time Complexity:O(n^2)
+   c. Query time: O(1)
 
+2. SQUARE ROOT DECOMPOSITION
+   a. Space Complexity: O(sqrt(n))
+   b. Time Complexity: O(n)
+   c. Divided into blocks of fixed range
+
+3. SEGMENT TREES
+   a. Space Complexity: O(4n)
+   b. Time Complexity:  O(log(n))
+   c. Use it when the data is static
+   
+   
